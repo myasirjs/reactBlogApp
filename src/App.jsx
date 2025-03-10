@@ -42,7 +42,7 @@ function App() {
         padding: "20px",
       }}
     >
-      <h1 style={{ color: "#333" }}>Blog-App</h1>
+      <h1 style={{ color: "#333" }}>Todo-App</h1>
       <form
         onSubmit={addTodo}
         style={{
